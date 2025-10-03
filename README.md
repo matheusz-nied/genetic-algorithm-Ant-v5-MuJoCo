@@ -1,5 +1,15 @@
 # Algoritmo Genético para Controle do Ant-v5 (MuJoCo)
 
+## Autores
+
+Este projeto foi desenvolvido por:
+
+- **Matheus Nied** - [@matheusz-nied](https://github.com/matheusz-nied)
+- **Gustavo Martins** - [@gstvmt](https://github.com/gstvmt)
+- **Lucas Reis** - [@LucasReis123](https://github.com/LucasReis123)
+
+---
+
 ## Descrição do Projeto
 
 Este projeto implementa um Algoritmo Genético (AG) para otimizar o controle de um agente formiga (Ant-v5) no ambiente MuJoCo usando ondas senoidais. O objetivo é maximizar a distância percorrida pela formiga através da evolução de parâmetros que controlam a frequência, amplitude e fase das ondas senoidais aplicadas às 8 juntas do robô.
