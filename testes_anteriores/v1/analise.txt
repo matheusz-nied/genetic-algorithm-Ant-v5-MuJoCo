@@ -1,0 +1,4 @@
+Foi percebido que o algorítmo não estã convergindo a média dos valores para o maior valor econtrado. Portando para a proxima análise foi alterado
+
+population_size: 100 -> 80
+tournament_size: 5 -> 7

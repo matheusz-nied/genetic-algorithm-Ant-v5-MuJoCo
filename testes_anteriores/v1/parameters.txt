@@ -1,0 +1,56 @@
+=== PARÂMETROS DA MELHOR SOLUÇÃO ===
+Melhor Fitness: 1639.2648525825064
+
+Frequências (8):
+  Junta 1: 12.2614
+  Junta 2: 14.0989
+  Junta 3: 16.9611
+  Junta 4: 12.8172
+  Junta 5: 9.1323
+  Junta 6: 13.5241
+  Junta 7: 16.8283
+  Junta 8: 17.3345
+
+Amplitudes (8):
+  Junta 1: 0.0475
+  Junta 2: 0.3527
+  Junta 3: 0.1403
+  Junta 4: 0.0344
+  Junta 5: 0.2515
+  Junta 6: 0.0419
+  Junta 7: 0.1895
+  Junta 8: 0.0349
+
+Fases (8):
+  Junta 1: 4.6044
+  Junta 2: 3.4331
+  Junta 3: 2.8705
+  Junta 4: 4.2999
+  Junta 5: 3.5800
+  Junta 6: 5.0411
+  Junta 7: 0.7545
+  Junta 8: 5.4531
+
+=== CONFIGURAÇÕES DO ALGORITMO GENÉTICO ===
+population_size: 100
+num_genes: 24
+num_generations: 200
+crossover_rate: 0.9
+elitism_count: 20
+tournament_size: 5
+
+bounds:
+  frequency: [0.1, 20.0]
+  amplitude: [0.0, 1.0]
+  phase: [0.0, 6.2831]
+enable_convergence_stop: True
+convergence_generations: 15
+convergence_threshold: 0.01
+enable_adaptive_mutation: True
+mutation_rate: 0.01
+stagnation_generations: 10
+mutation_increase_factor: 1.5
+mutation_decrease_factor: 0.99
+min_mutation_rate: 0.01
+max_mutation_rate: 0.05
+mutation_strength: 0.2
