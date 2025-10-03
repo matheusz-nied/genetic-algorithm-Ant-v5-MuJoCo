@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido por:
 
 - **Matheus Nied** - [@matheusz-nied](https://github.com/matheusz-nied)
-- **Gustavo Martins** - [@gstvmt](https://github.com/gstvmt)
+- **Gustavo Mota** - [@gstvmt](https://github.com/gstvmt)
 - **Lucas Reis** - [@LucasReis123](https://github.com/LucasReis123)
 
 ---
