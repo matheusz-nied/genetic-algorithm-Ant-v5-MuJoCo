@@ -95,6 +95,7 @@ action[i] = amplitude[i] * sin(frequency * t/20 + phase[i])
 A melhor solução foi testada no ambiente Ant-v5 e gravada em vídeo:
 
 **Localização**: `best_ant_solution.mp4`
+![Movimento do Robô Formiga](./best_ant_solution.gif)
 
 O vídeo demonstra o movimento do robô formiga utilizando os parâmetros otimizados pelo algoritmo genético.
 
